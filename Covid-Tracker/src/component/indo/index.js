@@ -12,7 +12,7 @@ const DataIndo = () => {
                     marginTop: '40px',
                     width: '35rem', 
                     textAlign: 'center' }}>
-                <Card.Header>Jumlah Kasus Covid-19 di Indonesia</Card.Header>
+                <Card.Header>Jumlah kasus Covid-19 di Indonesia</Card.Header>
                     <Card.Body>
                         <Card.Title> <JumlahIndo/> </Card.Title>
                     </Card.Body>
