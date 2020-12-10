@@ -1,6 +1,5 @@
 import React, {useEffect, useState } from 'react';
 import axios from "axios"
-import "bootstrap/dist/css/bootstrap.min.css";
 import NumberFormat from "react-number-format";
 
 const JumlahGlobal = () => {
